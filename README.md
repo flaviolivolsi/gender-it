@@ -5,11 +5,11 @@ Guess the gender of an italian name
 ### Usage
 ```javascript
 var gender_it = require('gender-it')
-gender.guess('Giacomo')
+gender_it.guess('Giacomo')
 // => 'm'
-gender.guess('Chiara')
+gender_it.guess('Chiara')
 // => 'f'
-gender.guess('Voldemort')
+gender_it.guess('Voldemort')
 // => undefined
 ```
 
