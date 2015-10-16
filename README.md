@@ -15,9 +15,9 @@ gender_it.guess('Voldemort')
 ```
 
 ### Author
-Flavio Li Volsi
+[Flavio Li Volsi](https://facebook.com/flaviolivolsi)
 
 flavio.livolsi@gmail.com
 
 ### Credits
-Thanks to Emiliano Negri for the database conversion to JSON
+Thanks to [Emiliano Negri](https://facebook.com/negri.emiliano) for the database conversion to JSON
