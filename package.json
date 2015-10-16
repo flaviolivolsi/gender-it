@@ -1,0 +1,27 @@
+{
+  "name": "gender-it",
+  "version": "1.0.0",
+  "description": "Guess the gender of an italian name",
+  "main": "gender.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flaviolivolsi/gender-it.git"
+  },
+  "keywords": [
+    "gender",
+    "sex",
+    "italian"
+  ],
+  "author": "Flavio Li Volsi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flaviolivolsi/gender-it/issues"
+  },
+  "homepage": "https://github.com/flaviolivolsi/gender-it#readme",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
