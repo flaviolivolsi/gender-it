@@ -20,8 +20,5 @@
   "bugs": {
     "url": "https://github.com/flaviolivolsi/gender-it/issues"
   },
-  "homepage": "https://github.com/flaviolivolsi/gender-it#readme",
-  "dependencies": {
-    "lodash": "^3.10.1"
-  }
+  "homepage": "https://github.com/flaviolivolsi/gender-it#readme"
 }
