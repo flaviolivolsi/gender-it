@@ -2,7 +2,7 @@
   "name": "gender-it",
   "version": "1.1.1",
   "description": "Guess the gender of an italian name",
-  "main": "gender.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,7 +13,13 @@
   "keywords": [
     "gender",
     "sex",
-    "italian"
+    "italian",
+    "names",
+    "nomi",
+    "italiani",
+    "sesso",
+    "genere",
+    "indovina"
   ],
   "author": "Flavio Li Volsi",
   "license": "MIT",
