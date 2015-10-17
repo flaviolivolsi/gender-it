@@ -1,6 +1,6 @@
 'use strict';
-var femaleNames = require('female-names.json');
-var maleNames = require('male-names.json');
+var femaleNames = require('./female-names.json');
+var maleNames = require('./male-names.json');
 
 exports.guess = function(name) {
   name = name.trim().toLowerCase();
