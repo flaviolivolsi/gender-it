@@ -1,12 +1,13 @@
-'use strict'
-
-var _ = require('lodash');
-var names = require('./db').names;
+'use strict';
+var femaleNames = require('./female-names.json');
+var maleNames = require('./male-names.json');
 
 exports.guess = function(name) {
   name = name.trim().toLowerCase();
-  var gender = _.result(_.find(names, function(chr) {
-    return chr.name === name;
-  }), 'sex');
-  return gender;
-}
+  if (maleNames.indexOf(name) >= 0) {
+  	return 'm';
+  }
+  if (femaleNames.indexOf(name) >= 0) {
+  	return 'f';
+  }
+};
